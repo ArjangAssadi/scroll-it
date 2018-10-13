@@ -11,13 +11,3 @@ Scroll It – it’s a very simple JavaScript created to solve this kind of prob
 2) Go to the site that your want to use Scroll it
 
 3) Click on Scroll It in your bookmark bar. That’s all
-
-**Check out this blog post to get a draggable link
-
-http://pablocantero.com/blog/2010/12/09/scroll-it-a-javascript-bookmarklet-to-automatically-scroll-the-page/
-
-==Do you want to improve this JavaScript?
-
-You’re welcome to make your contributions and send them as a pull request
-
-Thanks to @rdgr
